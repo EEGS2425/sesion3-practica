@@ -1,3 +1,6 @@
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
+Desarrollo web en entorno cliente. Libro digital interactivo. Pedro Prieto Alarcón
+Bases de datos. Gerardo Jara Leal
+Sistemas Informáticos. Ivens Huertas Gassó
